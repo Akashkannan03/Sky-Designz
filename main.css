@@ -740,3 +740,10 @@ a.getquote{
   font-family: "roboto", sans-serif;
   font-weight: 500;
 }
+/* .read:hover{
+  color: white;
+} */
+
+.services-list a:hover{
+  color: white;
+}
