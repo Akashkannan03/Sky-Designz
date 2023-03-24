@@ -85,9 +85,8 @@ background-size: 100% 140%;
     padding: 1rem 0;
 }
 
-.ourmoto-info1{
-    /* display: none; */
-}
+/* .ourmoto-info1{
+    /* display: none; */ */
 .ourmoto-info2{
     display: none;
 }
@@ -96,7 +95,7 @@ background-size: 100% 140%;
 }
 
 .about-section2{
-    display: flex;
+    display: flex;git 
     margin: 5rem 0;
 }
 .main-contentimage{
