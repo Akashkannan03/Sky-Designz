@@ -4,4 +4,7 @@
  const services =document.getElementById('services');
  const yourmessage =document.getElementById('yourmessage');
 
- form.addEventListener('')
+ form.addEventListener('sendmessage', function(e){
+    e.preventDefault();
+    console.log('sendmessage');
+ })
