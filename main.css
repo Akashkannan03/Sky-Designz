@@ -71,7 +71,7 @@ body{
 }
 
 .section-header{
-  background: url(images/6974855_4380.jpg) ;
+  background: url(./../images/6974855_4380.jpg) ;
   background-size: 100% 120% ;
   background-position: 10% 40%;
   object-fit: cover;
@@ -270,7 +270,7 @@ margin-top: -150px;
 
 .fifth-section{
   
-  background:   url(images/business-people-board-room-meeting.jpg);
+  background:   url(./../images/business-people-board-room-meeting.jpg);
   background-color: #002D62;
   background-blend-mode: multiply;
   box-sizing: border-box;
