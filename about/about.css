@@ -101,7 +101,7 @@ background-size: 100% 140%;
 .main-contentimage{
     height:400px;
     width: 500px;
-    background: url(/images/group-three-modern-architects.jpg);
+    background: url(./../images/group-three-modern-architects.jpg);
     background-size: cover;
     margin-left: 4rem;
     z-index: 10;
@@ -143,7 +143,7 @@ background-size: 100% 140%;
  }
 
  .box-section-lists{
-    background: url(/images/colleagues-giving-fist-bump.jpg);
+    background: url(./../images/colleagues-giving-fist-bump.jpg);
     background-color: #002D62;
     background-blend-mode: multiply;
     background-size: cover;
